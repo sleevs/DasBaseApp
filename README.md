@@ -1,2 +1,1 @@
-#DataBaseApp :
-É uma Demostração de uma aplicação Java com acesso a banco de dados Mysql utilizando A API JDBC .
+DataBaseApp é uma demostração de uma aplicação Java com acesso ao banco de dados Mysql utilizando A API JDBC .
